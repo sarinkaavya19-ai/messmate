@@ -21,15 +21,18 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try it here]([https://sarinkaavya19-ai.github.io/hostel_meal_planner_ai.html/](https://sarinkaavya19-ai.github.io/messmate/hostel_meal_planner_ai.html))**
+👉 **[Try it here](https://sarinkaavya19-ai.github.io/messmate/hostel_meal_planner_ai.html)**
 
 
 
 ---
 
 ## 📸 Screenshots
+<img width="1895" height="874" alt="Screenshot 2026-04-01 182020" src="https://github.com/user-attachments/assets/b38f7a15-1522-4441-bccd-9679837f798a" />
 
-> *(Add screenshots of the app here after you deploy it)*
+<img width="1895" height="877" alt="Screenshot 2026-04-01 182036" src="https://github.com/user-attachments/assets/191ae841-acc5-42a6-94b4-cda9f8f39ba5" />
+
+<img width="1899" height="879" alt="image" src="https://github.com/user-attachments/assets/d83073a9-a582-42ac-bc4a-06bc27ae68cc" />
 
 ---
 
