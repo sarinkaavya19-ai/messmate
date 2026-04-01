@@ -21,9 +21,9 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try it here](https://sarinkaavya19-ai.github.io/messmate/)**
+👉 **[Try it here](https://sarinkaavya19-ai.github.io/hostel_meal_planner_ai/)**
 
-> Replace the link above with your own GitHub Pages URL after deploying.
+
 
 ---
 
