@@ -21,7 +21,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try it here](https://sarinkaavya19-ai.github.io/hostel_meal_planner_ai.html/)**
+👉 **[Try it here]([https://sarinkaavya19-ai.github.io/hostel_meal_planner_ai.html/](https://sarinkaavya19-ai.github.io/messmate/hostel_meal_planner_ai.html))**
 
 
 
